@@ -78,6 +78,11 @@ li {
     align-items: start;
 }
 
+input[type="checkbox"] {
+    /* for iOS */
+    flex-shrink: 0;
+}
+
 input[type="checkbox"]:hover {
     cursor: pointer;
 }
