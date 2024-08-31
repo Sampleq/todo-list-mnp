@@ -9,8 +9,8 @@ const form = document.getElementById('todoForm');
 // const submitBtn = document.getElementById('submit-todo');
 // const newTodoInput = document.getElementById('new-todo');
 
-const urlTodosJsPlh = `http://jsonplaceholder.typicode.com/todos/`
-const urlUsersJsPlh = `http://jsonplaceholder.typicode.com/users/`
+const urlTodosJsPlh = `https://jsonplaceholder.typicode.com/todos/`
+const urlUsersJsPlh = `https://jsonplaceholder.typicode.com/users/`
 
 
 
